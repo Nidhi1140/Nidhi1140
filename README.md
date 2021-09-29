@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nidhi1140
-- 👀 I’m interested in Pyhton
-- 🌱 I’m currently learning pyhton
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to  find solutions of my problems
 - 📫 How to reach me
 
